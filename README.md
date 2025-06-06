@@ -17,9 +17,9 @@ Install the requirements with `pip install -r requirements.txt`
 The script will take you through choosing your Scrap Mechanic save file dir and its workshop folder.
 Then, press 1 or 2 depending on if you want it to search downloaded workshop creations or your own creations.
 > [!NOTE]
-> If you have installed Scrap Mechanic to somewhere other than the default location i.e. an external drive, the workshop folder will be under: <Your other steam library>\steamapps\workshop.
+> If you have installed Scrap Mechanic to somewhere other than the default location i.e. an external drive, the workshop folder will be under: `<Your other steam library>\steamapps\workshop`.
 > For example, I have Scrap Mechanic installed on my F: Driver under the SteamLibrary library name and my path looks like:
-> F:\SteamLibrary\steamapps\workshop
+> `F:\SteamLibrary\steamapps\workshop`
 
 # Troubleshooting
 If the program crashes, or does not show a creation, make sure you typed the first word correctly and look closly at the console after you enter the name.
