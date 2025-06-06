@@ -6,7 +6,7 @@ With the Scrap Mechanic Mod Tracer, you can figure out which mods are needed by 
 
 # Installation
 ## The easy way
-Grab the latest release and run the exe.
+Grab the [latest release]("https://github.com/git4o/scrap-mod-trace/releases/tag/latest") and run  main.exe.
 It is highly recommended to place the exe file in a dedicated folder, as it will create a .env file so it can remember your game's install directory.
 
 ## The hard way
