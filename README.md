@@ -1,5 +1,5 @@
 # Scrap Mechanic Mod Tracer
-Ever gotten a failed to build shaper error message while trying to load a Scrap Mechanic creation?
+Ever gotten a "Failed to build shape" error message while trying to load a Scrap Mechanic creation?
 Some workshop creations don't tell you what mods you need.
 You may have uninstalled a mod needed by your creations.
 With the Scrap Mechanic Mod Tracer, you can figure out which mods are needed by creations.
