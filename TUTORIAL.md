@@ -2,7 +2,7 @@
 
 **I have no idea what the linux equivalent of the paths are, but google is your friend**
 
-**I backed it up, because I find that Reddit posts sometimes disappear, but here is [the original post by u/Tomas0514_cz](https://www.reddit.com/r/ScrapMechanic/comments/1epfyls/comment/lhlp0ud/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) all credit goes to them, I just turned his tutorial into a tool that just detects mods**
+**I backed it up, because I find that Reddit posts sometimes disappear, but here is [the original post by u/Tomas0514_cz](https://www.reddit.com/r/ScrapMechanic/comments/1epfyls/comment/lhlp0ud/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) all credit goes to them, I just turned their tutorial into a tool that just detects mods**
 
 Find your blueprint in the file explorer.
 
