@@ -3,7 +3,7 @@ Ever gotten a "Failed to build shape" error message while trying to load a Scrap
 Some workshop creations don't tell you what mods you need.
 You may have uninstalled a mod needed by your creations.
 With the Scrap Mechanic Mod Tracer, you can figure out which mods are needed by creations.
-**This program is currently for windows only. I don't have the time to port it to linux, but you can follow this tutorial, which is basically what this program does, but manual and harder**
+**This program is currently for windows only. I don't have the time to port it to linux, but you can follow [this tutorial](https://github.com/git4o/scrap-mod-trace/blob/main/TUTORIAL.md), which is basically what this program does, but manual and harder (execpt it does not delete shapes)**
 
 # Installation
 ## The easy way
